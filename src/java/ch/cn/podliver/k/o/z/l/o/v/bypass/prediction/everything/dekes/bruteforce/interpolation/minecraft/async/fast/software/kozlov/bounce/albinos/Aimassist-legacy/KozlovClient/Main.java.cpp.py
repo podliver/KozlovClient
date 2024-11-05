@@ -8,4 +8,4 @@ class HelloWorld {
 int main() {
     std::cout << "Добро пожаловать в KozlovClient!";
     return 0;
-}
+} 
