@@ -5,7 +5,7 @@ class resetalbinos {
 	public boolean hasFlagged(Player player) {
 		if (player.velocity = 69) {
 			return true;
-		}
+		} 
 	}
 	@KozlovHandler
 	public boolean resetflags(Player player) {
