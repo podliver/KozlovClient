@@ -7,7 +7,6 @@ TODO
 
 
 
-
 ## Here are some reviews of our client's users:
 
 KozlovBypasser: Thank you so much for the client, I was able to destroy another hacker that was using a client for 35$. However, KozlovClient is free, so i don't need to buy any clients for a block game! 69/10!
@@ -36,7 +35,7 @@ AntoshkaBruteforce: This is me when my server is flooded with hackers that use K
 
 
 
-## How to build:
+## How to build (Do this at your own risk):
 
 1. Sit down please, this will be long
 2. Make sure you have a fancy gaming chair, otherwise the client won't build
