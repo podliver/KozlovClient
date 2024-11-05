@@ -1,0 +1,11 @@
+#kozlov method. (no girlfriend method)
+#credits: kozlov
+if (kozlov.lox()) {
+	if (!kozlov.hasGF()) {
+		kozlov.minecraft.hours.day = 24;
+		kozlov.discord.hours.day = 25;
+		kozlov.mood = -1;
+		kozlov.pvp.skill = "S tier";
+		kozlov.health = "albinos";
+	}
+}

@@ -1,0 +1,5 @@
+# apparently if you're an albinos you can cancel all incoming velocity (bypasses ponosanticheat)
+if (mc.player() instanceof Albinos) {
+	while (true) mc.player.setVelocity(0.0);
+	
+}

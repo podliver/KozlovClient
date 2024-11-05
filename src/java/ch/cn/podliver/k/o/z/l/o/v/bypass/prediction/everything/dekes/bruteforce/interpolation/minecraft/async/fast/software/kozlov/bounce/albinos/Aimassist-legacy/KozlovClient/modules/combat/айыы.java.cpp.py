@@ -1,0 +1,93 @@
+# айыы module: bypasses all servers, makes your opponents jump straight to the void
+# Credits to: Юронг
+if (айыы.kozlover()) {
+    mc.player.jump();
+    if (yurung(mc.player)) { 
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+        mc.player.setVelocity(0.0);
+        mc.player.jump();
+        mc.player.chat("айыы");
+    }
+}
+boolean yurung(Player p) {
+    if (p.location = yakutia) {
+        return true;
+    }
+}

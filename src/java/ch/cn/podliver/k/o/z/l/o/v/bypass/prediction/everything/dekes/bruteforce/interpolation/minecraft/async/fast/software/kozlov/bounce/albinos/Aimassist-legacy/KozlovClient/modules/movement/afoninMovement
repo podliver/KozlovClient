@@ -1,0 +1,5 @@
+# copies the movement of afonin (all bow arrows from players will land on you)
+# credits: afonin
+if (PredictionEverythingEngine.arrow.hitbox.intersects(mc.afonin)) {
+	mc.afonin.move(PredictionEverythingEngine.arrow.hitbox.intersects.location);
+}
