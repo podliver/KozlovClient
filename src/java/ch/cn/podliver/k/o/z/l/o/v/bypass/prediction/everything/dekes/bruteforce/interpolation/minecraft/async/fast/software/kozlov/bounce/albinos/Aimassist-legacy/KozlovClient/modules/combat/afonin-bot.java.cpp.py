@@ -1,5 +1,5 @@
 # so basically, its a bot (made by Afonin-Anthony) that is making your pvp skills worse!
-# features: AutoSosanie, Aimassist-legacy, TeslaCraft anticheat bypass, Jump Reset Velocity, autoclicker 6 cps.
+# features: AutoSosanie, Aimassist-legacy, TeslaCraft anticheat bypass, Jump Reset Velocity, autoclicker 6 cps, Fart Dekes.
 
 class afonin-bot {
     String feature = "AutoSosanie";
@@ -27,6 +27,12 @@ class afonin-bot {
             mc.player.yaw(-90);
             mc.player.click("6cps");
             mc.player.chat("О НЕЕЕТ ЗАБАНИЛА((( AFONINHACK не помог");
+        }
+    }
+    if (feature.equals("FartDekes") {
+        afonin-mode = true;
+        if (!afonin-mode) {
+            mc.dekes.fart("anon987666");
         }
     }
 }
