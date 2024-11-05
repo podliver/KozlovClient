@@ -3,5 +3,5 @@
 if (firsthit(kozloVbypass)) {
 	mc.player.reach=3.5;
 } else{
-mc.player.reach=0.00000000000000000001;
+mc.player.reach=0.00000000000000000001; 
 }
