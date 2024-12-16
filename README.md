@@ -1,8 +1,63 @@
 # KozlovClient | An advanced free client
 
-### Features:
+## Features:
 
-TODO
+### Combat (Modules that are made for Combat):
+
+AlbinosVelocity - Cancels all velocity when you're albinos.
+
+AfoninBot - Makes you play like Afonin (automatically, you don't have to be at your PC to suck!). There is 6 features, but 5 of them are broken, only AutoSosanie will work.
+
+HitSelect - Hit-selects and comboes for you automatically! (Shpund method)
+
+Айыы - A module thats making your opponents jump straight to the void by bruteforcing АЙЫЫ and jumping (also setting your velocity to 0.0).
+
+
+
+### Exploit (Modules that exploit some servers):
+
+Disabler - An exclusive module for our premium users (this module is open-source, so you can bypass this "premium" check :sob: (please don't)). Modes: Disabler for scaffold check on TeslaCraft, full disabler for AlbinosCraft and full disabler for KozlovMine (gownoantihack 1.9.10).
+
+FreeKozlov - A module that makes Kozlov's PC fall on him while his dad plays SCUM for 8000 hours.
+
+
+
+### Methods (Methods that makes you play like experienced players):
+
+AfoninMethod - Insane bypass, controls opponent's mind and makes him to not attack you. Only works if your job place is Zavod.
+
+AveringMethod - Avering method that makes all of your hits land on an enemy!
+
+KozlovMethod - just kozlov method. (no girlfriend method). as simple as that.
+
+
+
+### Movement (Movement modules for specific situations):
+
+BowAutoDodge - Dodges ALL arrows coming from bows. Uses PredictionEverythingEngine to scan all arrows in the world and dodge them.
+
+AfoninMovement - A module that makes all arrows to land on you.
+
+CollideSpeed - An old speed bypass, however it still bypasses some servers (ported from KozlovClient-legacy) (tries to find the best speed you can use on any server).
+
+KozlovStrafe - Strafes from Afonin (only if you're kozlov right now).
+
+
+
+### Player (Modules that change your player's behavior):
+
+AfoninReachBypass - Gives 3.5 reach on first hit and 0.00000000000000000001 on and other hits, so you could bypass (bypasses afoninhantihack).
+
+ResetFlags - This module just resets your flags on teslacraft anticheat. (fixes bans for PA).
+
+
+
+### Render (Modules that change your game's appearance):
+
+KozlovChestESP - Find all chests on the map for you. (Bypasses any anticheat, anti-xray, etc).
+
+KozlovESP - Finds kozlov on your map, so your opponents can't run away from you. Also tries to set his motion to 0.
+
 
 
 
