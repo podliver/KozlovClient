@@ -1,4 +1,4 @@
-# hit-selects and comboes for you! (Shpund method)
+# hit-selects and comboes for you automatically! (Shpund method)
 # credits: Shpund
 class hit-select {
     if (mc.players.nearest <= 3) {
