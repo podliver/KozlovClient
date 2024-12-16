@@ -1,6 +1,6 @@
 # KozlovClient | An advanced free client
 
-## Features:
+### Features:
 
 TODO
 
@@ -40,7 +40,7 @@ AntoshkaBruteforce: This is me when my server is flooded with hackers that use K
 1. Sit down please, this will be long
 2. Make sure you have a fancy gaming chair, otherwise the client won't build
 3. Go to https://github.com/podliver/KozlovClient/blob/main/build-linux.txt and run it in your terminal. (if you're using a shitty OS, go to https://github.com/podliver/KozlovClient/blob/main/build-windows.txt)
-4. Pray to Kozlov God
+4. Pray to the Kozlov God
 5. Pray again
 6. Restart your PC
 7. The client will start automatically
